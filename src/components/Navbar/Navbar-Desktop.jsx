@@ -10,7 +10,7 @@ const NavbarDesktop = () => {
           <li key={to}>
             <Link
               to={to}
-              className="flex items-center gap-2 hover:text-[#3D9970] transition-colors duration-300 ease-in-out hover:cursor-pointer"
+              className="flex items-center gap-2 text-red-800 font-bold text-base hover:text-red-900 transition-colors duration-300 ease-in-out hover:cursor-pointer"
               smooth={true}
               duration={500}
             >

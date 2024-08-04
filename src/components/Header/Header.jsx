@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <Navbar bg="orange">
       <Container>
-        <Navbar.Brand href="#home">Shri Ganesh Utsav Samithi Inc</Navbar.Brand>
+        <Navbar.Brand href="#home">Shree Ganesh Utsav Samithi Inc</Navbar.Brand>
 
         <Nav className="justify-content-end">
           <Nav.Link href="#home">Events</Nav.Link>

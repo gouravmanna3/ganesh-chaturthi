@@ -1,8 +1,14 @@
 .banner-container {
-  background-image: url("./assets/images/banner.jpg");
+  background-image: url("./assets/banner.jpg");
   background-blend-mode: overlay;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 600px;
+}
+
+@media only screen and (max-width: 767px) {
+  .banner-container {
+    min-height: 235px;
+  }
 }
