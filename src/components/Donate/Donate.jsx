@@ -28,6 +28,10 @@ const Donate = () => {
               alt="qr_code"
               className="h-auto w-2/3 md:w-2/4 m-auto md:ml-12"
             />
+            <div className="ml-12 text-xs">
+              <p>Please Zelle at </p>
+              <p>zellesgus@shreeganeshautsavsac.org or 916-693-3927</p>
+            </div>
           </div>
         </div>
       </div>

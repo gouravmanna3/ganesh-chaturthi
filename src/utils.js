@@ -17,7 +17,7 @@ export const navLinks = [
   },
   {
     title: "Contact us",
-    to: "contactUs",
+    to: "footer",
   },
 ];
 
